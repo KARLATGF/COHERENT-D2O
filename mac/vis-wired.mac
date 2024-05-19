@@ -1,0 +1,9 @@
+/vis/open HepRepFile
+/vis/drawVolume
+/vis/viewer/flush
+
+/vis/scene/add/trajectories
+/vis/scene/add/hits 
+
+#comment this for single heprep file per event
+/vis/scene/endOfEventAction accumulate

@@ -1,0 +1,7 @@
+#/control/verbose 1
+#/run/verbose 1
+#/event/verbose 1
+
+/geometry/test/recursive_test
+/geometry/test/grid_test
+
